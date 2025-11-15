@@ -26,7 +26,11 @@
 ## 🎓 Education  
 <p>
   <strong>Master of Computer Applications (MCA)</strong>  
-  Pursuing – Expected Completion: 202X  
+  Pursuing – Expected Completion: 2027  
+</p>
+<p>
+  <strong>Bachelors of Computer Applications (BCA)</strong>  
+  Graduated –  in: 2025  
 </p>
 
 ---

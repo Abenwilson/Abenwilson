@@ -42,4 +42,11 @@
     <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+    <img src ="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/>
+      <img src ="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+      <img src ="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white"/>
+            <img src ="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+      <img src ="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
+
+
 </p>

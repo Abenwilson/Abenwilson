@@ -36,3 +36,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB&layout=compact" />
 </p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+</p>

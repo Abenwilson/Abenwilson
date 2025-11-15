@@ -16,6 +16,11 @@
 ---
 
 ## 🚀 Professional Summary  
+<p>
+  I am an MCA student and an enthusiastic software developer with a strong passion for creating scalable, user-centric, and high-quality digital solutions. With a growing foundation in modern development technologies and a mindset focused on continuous improvement, I enjoy transforming ideas into functional applications. 
+  I’m particularly interested in full-stack development, mobile app engineering, and cloud-integrated systems. I thrive on learning new tools, solving challenging problems, and building projects that make a real impact. Always eager to collaborate, innovate, and stay updated with the evolving tech landscape.
+</p>
+---
 📱Software Developer:  
 - 💙 flutter  
 - 🐍 python
@@ -28,14 +33,8 @@
 🟢 **Available for immediate joining**
 
 ---
-
-
+<h3>Languages and tools</h3>
 ---
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB&layout=compact" />
-</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
@@ -48,5 +47,9 @@
     <img src ="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
     <img src ="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
 
+</p>
 
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB&layout=compact" />
 </p>

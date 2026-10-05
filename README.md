@@ -1,71 +1,183 @@
-<h1 align="center">Hi 👋, I'm Aben Wilson</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<div align="center">
 
-<p align="center">
+<!-- 🐿️ Animated Squirrel -->
+<img src="./assets/squirrel-hi.gif" width="150" alt="Cute squirrel saying hi">
+
+<h1>Hi 👋, I'm <span style="color:#58A6FF;">Aben Wilson</span></h1>
+
+<h3>💻 Software Developer • Full-Stack • Mobile • Cloud</h3>
+
+<p>
+  Building ideas into useful digital experiences.
+</p>
+
+<p>
   <a href="https://www.linkedin.com/in/aben-wilson-11601a348" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:abenwilson1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:abenwilson1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR-GITHUB" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Abenwilson" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
----
-
-## 🚀 Professional Summary  
-<p align="justify">
-  I am an MCA student and an enthusiastic software developer with a strong passion for creating scalable, user-centric, and high-quality digital solutions. With a growing foundation in modern development technologies and a mindset focused on continuous improvement, I enjoy transforming ideas into functional applications. 
-  I’m particularly interested in full-stack development, mobile app engineering, and cloud-integrated systems. I thrive on learning new tools, solving challenging problems, and building projects that make a real impact. Always eager to collaborate, innovate, and stay updated with the evolving tech landscape.
-</p>
+</div>
 
 ---
 
-## 🎓 Education  
-<p>
-  <strong>Master of Computer Applications (MCA)</strong>  
-  Pursuing – Expected Completion: 2027  
-</p>
-<p>
-  <strong>Bachelors of Computer Applications (BCA)</strong>  
-  Graduated –  in: 2025  
-</p>
+## 🚀 About Me
+
+I'm an **MCA student and passionate Software Developer** who enjoys turning ideas into practical, user-friendly applications.
+
+My interests include **full-stack development, mobile application development, backend systems, databases, and cloud-integrated applications**.
+
+I enjoy learning new technologies, solving real-world problems, and continuously improving the way I build software.
+
+```text
+💡 Think       →       🛠️ Build       →       🧪 Improve       →       🚀 Deploy
+```
 
 ---
 
-## 📱 Technical Skills  
-<p align="left">
-  <strong>Software Developer:</strong><br>
-  • 💙 Flutter <br>
-  • 🐍 Python <br>
-  • 🐘 PHP <br>
-  • 🔥 Firebase <br>
-  • 🟩 Supabase <br>
-  • 🛢️ NoSQL <br>
-  • 🧱 Infrastructure as Code (Terraform) <br>
-</p>
+## 🧑‍💻 What I Work With
 
-🟢 <strong>Available for immediate joining</strong>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Development
+
+- 💙 Flutter
+- 🐍 Python
+- 🐘 PHP
+- 🟨 JavaScript
+- 🌐 HTML & CSS
+- 🔌 REST APIs
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ Backend & Cloud
+
+- 🔥 Firebase
+- 🟢 Supabase
+- 🛢️ MySQL
+- 🍃 MongoDB
+- ☁️ Cloud Services
+- 🧱 Terraform
+
+</td>
+</tr>
+</table>
 
 ---
 
-<h3 align="center">🛠️ Languages & Tools</h3>
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,php,js,html,css,firebase,supabase,mysql,mongodb,nodejs,git,github,vscode,terraform" />
+
+</div>
 
 ---
 
+## 🎓 Education
 
+### 🎓 Master of Computer Applications — MCA
 
+**Currently Pursuing**  
+Expected Completion: **2027**
+
+### 🎓 Bachelor of Computer Applications — BCA
+
+**Graduated — 2025**
+
+---
+
+## 💼 Featured Projects
+
+### ⚽ KickPro
+
+**Football Management & Talent Discovery Platform**
+
+A platform designed to connect:
+
+`Players` → `Coaches` → `Scouts` → `Clubs` → `Tournaments`
+
+**Tech:** JavaScript • Node.js • Supabase
+
+---
+
+### 🎬 CreatorBridge
+
+**Creator & Editor Collaboration Platform**
+
+A mobile application that connects content creators with editors and provides features for profiles, posts, communication, likes, comments and collaboration.
+
+**Tech:** Flutter • Firebase • Bloc
+
+---
+
+### ♻️ ShareCycle
+
+**Household Item Reuse Platform**
+
+A platform for sharing and reusing household items with pickup, messaging and item management features.
+
+**Tech:** PHP • MySQL • JavaScript
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abenwilson&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abenwilson&layout=compact&hide_border=true&theme=tokyonight" height="170">
+
+</div>
+
+---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Abenwilson/Abenwilson/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation">
+
+</div>
+
+---
+
+## 🟢 Currently Available
+
+<div align="center">
+
+### 🟢 Available for Immediate Joining
+
+**Open to Software Development Opportunities**
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Let's Build Something Great Together
+
+`LEARN` • `BUILD` • `CREATE` • `GROW`
+
+<br>
+
+<img src="./assets/squirrel-wave.gif" width="100" alt="Squirrel waving">
+
+<br>
+
+**Thanks for visiting my profile! 👋**
+
+</div>

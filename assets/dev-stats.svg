@@ -1,0 +1,38 @@
+<svg width="830" height="300" viewBox="0 0 830 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Abenwilson development stats">
+<style>
+text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+.h{font-size:13px;font-weight:700;fill:#fff}
+.sm{font-size:10px;fill:#9ca3af}
+.num{font-size:19px;font-weight:700}
+.lbl{font-size:12px}
+@keyframes gx{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes gy{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@keyframes pop{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+.bx{transform-box:fill-box;transform-origin:left center;animation:gx 1.2s cubic-bezier(.16,1,.3,1) both}
+.by{transform-box:fill-box;transform-origin:center bottom;animation:gy 1.2s cubic-bezier(.16,1,.3,1) both}
+.pp{animation:pop .8s ease-out both}
+</style>
+<rect x="0.5" y="0.5" width="500" height="299" rx="16" fill="#1f2335" stroke="#30363d"/>
+<rect x="520.5" y="0.5" width="309" height="299" rx="16" fill="#1f2335" stroke="#30363d"/>
+<text class="h" x="24" y="34">Abenwilson's Development Stats</text>
+<rect x="398" y="19" width="78" height="22" rx="6" fill="#7aa2f7" fill-opacity=".2" stroke="#7dcfff" stroke-opacity=".4"/>
+<text x="437" y="34" text-anchor="middle" font-size="10" fill="#7dcfff">Grade: A+</text>
+<line x1="24" y1="52" x2="476" y2="52" stroke="#30363d"/>
+<g class="pp" style="animation-delay:0.00s"><rect x="24" y="66" width="105" height="62" rx="10" fill="#1a1b26" stroke="#30363d"/><text class="num" x="76.5" y="95" text-anchor="middle" fill="#7dcfff">480+</text><text class="sm" x="76.5" y="114" text-anchor="middle">Total Commits</text></g>
+<g class="pp" style="animation-delay:0.12s"><rect x="139" y="66" width="105" height="62" rx="10" fill="#1a1b26" stroke="#30363d"/><text class="num" x="191.5" y="95" text-anchor="middle" fill="#9ece6a">28</text><text class="sm" x="191.5" y="114" text-anchor="middle">Repositories</text></g>
+<g class="pp" style="animation-delay:0.24s"><rect x="254" y="66" width="105" height="62" rx="10" fill="#1a1b26" stroke="#30363d"/><text class="num" x="306.5" y="95" text-anchor="middle" fill="#bb9af7">14</text><text class="sm" x="306.5" y="114" text-anchor="middle">Pull Requests</text></g>
+<g class="pp" style="animation-delay:0.36s"><rect x="369" y="66" width="105" height="62" rx="10" fill="#1a1b26" stroke="#30363d"/><text class="num" x="421.5" y="95" text-anchor="middle" fill="#ff9e64">99.4%</text><text class="sm" x="421.5" y="114" text-anchor="middle">Commit Rate</text></g>
+<text font-size="12" x="24" y="156" fill="#9ca3af">Contribution Velocity</text><text font-size="12" x="476" y="156" text-anchor="end" fill="#9ece6a">High Activity 🔥</text><rect x="24" y="166" width="452" height="112" rx="10" fill="#1a1b26" fill-opacity=".6" stroke="#30363d" stroke-opacity=".6"/>
+<rect class="by" x="36.0" y="236.4" width="52" height="33.6" rx="4" fill="#7aa2f7" fill-opacity="0.3" style="animation-delay:0.00s"/>
+<rect class="by" x="97.1" y="215.4" width="52" height="54.6" rx="4" fill="#7aa2f7" fill-opacity="0.5" style="animation-delay:0.08s"/>
+<rect class="by" x="158.3" y="228.0" width="52" height="42.0" rx="4" fill="#7aa2f7" fill-opacity="0.7" style="animation-delay:0.16s"/>
+<rect class="by" x="219.4" y="198.6" width="52" height="71.4" rx="4" fill="#7dcfff" fill-opacity="1" style="animation-delay:0.24s"/>
+<rect class="by" x="280.6" y="219.6" width="52" height="50.4" rx="4" fill="#bb9af7" fill-opacity="1" style="animation-delay:0.32s"/>
+<rect class="by" x="341.7" y="190.2" width="52" height="79.8" rx="4" fill="#9ece6a" fill-opacity="1" style="animation-delay:0.40s"/>
+<rect class="by" x="402.9" y="207.0" width="52" height="63.0" rx="4" fill="#7aa2f7" fill-opacity="1" style="animation-delay:0.48s"/>
+<text class="h" x="544" y="34">Top Languages Used</text><text class="sm" x="806" y="34" text-anchor="end">Most Active</text><line x1="544" y1="52" x2="806" y2="52" stroke="#30363d"/>
+<text class="lbl" x="544" y="84" fill="#38bdf8">Flutter / Dart</text><text class="lbl" x="806" y="84" text-anchor="end" fill="#9ca3af">42%</text><rect x="544" y="94" width="262" height="8" rx="4" fill="#0d1117"/><rect class="bx" x="544" y="94" width="110.0" height="8" rx="4" fill="#38bdf8" style="animation-delay:0.00s"/>
+<text class="lbl" x="544" y="136" fill="#fde047">JavaScript / Node</text><text class="lbl" x="806" y="136" text-anchor="end" fill="#9ca3af">30%</text><rect x="544" y="146" width="262" height="8" rx="4" fill="#0d1117"/><rect class="bx" x="544" y="146" width="78.6" height="8" rx="4" fill="#fde047" style="animation-delay:0.12s"/>
+<text class="lbl" x="544" y="188" fill="#facc15">Python</text><text class="lbl" x="806" y="188" text-anchor="end" fill="#9ca3af">16%</text><rect x="544" y="198" width="262" height="8" rx="4" fill="#0d1117"/><rect class="bx" x="544" y="198" width="41.9" height="8" rx="4" fill="#facc15" style="animation-delay:0.24s"/>
+<text class="lbl" x="544" y="240" fill="#818cf8">PHP &amp; SQL</text><text class="lbl" x="806" y="240" text-anchor="end" fill="#9ca3af">12%</text><rect x="544" y="250" width="262" height="8" rx="4" fill="#0d1117"/><rect class="bx" x="544" y="250" width="31.4" height="8" rx="4" fill="#818cf8" style="animation-delay:0.36s"/>
+</svg>

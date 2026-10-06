@@ -1,8 +1,6 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.png">
   <img src="assets/hero-dark.png" alt="Hi, I'm Aben Wilson - Doraemon flies in and lands right after the name" width="860">
 </picture>
 

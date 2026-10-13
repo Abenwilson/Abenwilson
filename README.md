@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>I'm Aben Wilson <img src="assets/doraemon.gif" alt="Doraemon" height="44" align="absmiddle" /></h1>
+<h1>HI 👋🏽 , I'm Aben Wilson <img src="assets/doraemon.gif" alt="Doraemon" height="44" align="absmiddle" /></h1>
 
 ### 💻 Software Developer • Full-Stack • Mobile • Cloud
 
